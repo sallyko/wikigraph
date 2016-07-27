@@ -1,0 +1,11 @@
+	Functions:
+	-zoom in and out of timeline to view more dots
+	-able to open multiple timeline (2 or more?)
+	-color coded categories (icons for color blinded people?)
+	-multiple article window opened 
+	-able to turn on and off category on timeline
+	-when searching for something, it’ll show up within the category and then can decide to turn on and off other category icons
+	-lock function to scroll together or alone multiple timeline
+	-accounts for people to have their own timeline which they can +add an event onto their studies.
+	-flags icons to where it took place
+	-timeframe <——————>
